@@ -1,0 +1,28 @@
+{
+  "name": "parse-safari-reading-list",
+  "version": "0.1.0",
+  "description": "Parse Safari Reading List and publish it to Pinboard.",
+  "main": "index.js",
+  "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-pinboard": "^0.1.1",
+    "simple-plist": "^0.0.4"
+  },
+  "keywords": [
+    "safari",
+    "reading",
+    "list",
+    "pinboard"
+  ],
+  "devDependencies": {},
+  "bin": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksy/parse-safari-reading-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niksy/parse-safari-reading-list/issues"
+  },
+  "homepage": "https://github.com/niksy/parse-safari-reading-list#readme"
+}
