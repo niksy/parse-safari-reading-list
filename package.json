@@ -7,7 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "node-pinboard": "^0.1.1",
-    "simple-plist": "^0.0.4"
+    "request": "^2.65.0",
+    "simple-plist": "^0.0.4",
+    "strip-utm": "^1.0.0"
   },
   "keywords": [
     "safari",
