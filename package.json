@@ -1,6 +1,6 @@
 {
   "name": "parse-safari-reading-list",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Parse Safari Reading List and publish it to Pinboard.",
   "main": "index.js",
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
