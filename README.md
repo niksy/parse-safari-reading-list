@@ -1,3 +1,11 @@
+![Unmaintained project](https://img.shields.io/badge/status-unmaintained-red.svg)
+
+**This project is unmaintained.**
+
+Please see [sync-safari-reading-list-cli](https://github.com/niksy/sync-safari-reading-list-cli) for newer implementation.
+
+---
+
 # Parse Safari Reading List
 
 Parse Safari Reading List and publish it to Pinboard.
